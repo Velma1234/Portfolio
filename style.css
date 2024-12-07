@@ -1,0 +1,14 @@
+body{
+    background-color:#FFE3E3 ;
+    color: #789DBC;
+}
+
+.profilepic{
+    padding: 20px;
+}
+img{
+    border-radius: 60%;
+    padding: 20px;
+    width :400px;
+    height: 400px;
+}
